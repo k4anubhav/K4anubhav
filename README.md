@@ -14,8 +14,8 @@ Hi, I'm [Anubhav](https://www.instagram.com/k4anubhav/), a Studnet 🚀 from Ind
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on . . . . . .  ;
-- 🌱 I’m currently learning C; 
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 I’m currently learning ...; 
+- 💬 ............................;
 - 📫 How to reach me: [@k4anubhav](https://www.instagram.com/k4anubhav);
 
 **Languages and Tools:**  
