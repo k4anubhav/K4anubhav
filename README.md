@@ -11,4 +11,4 @@
 
 Hi, I'm [Anubhav](https://www.instagram.com/k4anubhav/)
   
-📫 How to reach me: [@k4anubhav](https://www.instagram.com/k4anubhav);
+📫 How to reach me: [@k4anubhav](https://www.instagram.com/k4anubhav) | [k4anubhav@gmail.com](mailto:k4anubhav@gmail.com?body=Hey%2C%20I%20just%20found%20you%20via%20your%20github%20profile.);
