@@ -5,8 +5,8 @@ I know some python and some of its frameworks.
 ## Well, I like music, a little too much.
 
 ### I'm Currently listening to 
-<a href="https://api.k4anubhav.com/spotify/d91c12fd-0726-4ae4-bf55-7b121e3114aa/current-track/redirect" target="_blank">
- <img src="https://api.k4anubhav.com/spotify/d91c12fd-0726-4ae4-bf55-7b121e3114aa/current-track/banner/">
+<a href="https://api.k4anubhav.com/spotify/e84d4801-b4b3-430b-b098-e5411a2a08bd/current-track/redirect" target="_blank">
+ <img src="https://api.k4anubhav.com/spotify/e84d4801-b4b3-430b-b098-e5411a2a08bd/current-track/banner/">
 </a>
  
 
