@@ -1,13 +1,21 @@
-# Hi, I'm Anubhav K.
+# Hi, I'm Anubhav K. 
+<!-- Why are you here? -->
 
-I know some python and some of its frameworks.
+
+I know some Python and some of its frameworks.
+
+
+Currently Looking for a winter spring internship
+
+<!--
 
 ## Well, I like music, a little too much.
 
-### I'm Currently listening to 
+### I'm Currently listening to Something
 <a href="https://api.k4anubhav.com/spotify/161e45d6-77bd-4317-ab2d-8f90d1ed924e/current-track/redirect/" target="_blank">
  <img src="https://api.k4anubhav.com/spotify/161e45d6-77bd-4317-ab2d-8f90d1ed924e/current-track/banner/">
 </a>
+-->
  
 
 ##
@@ -15,4 +23,7 @@ I know some python and some of its frameworks.
 
 ##
 
+<!--
 ##### ps: i'm not obsessed with cats.
+-->
+
