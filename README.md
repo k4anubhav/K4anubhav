@@ -2,10 +2,10 @@
 <!-- Why are you here? -->
 
 
-I know some Python and some of its frameworks.
+I know some <!-- I don't know grammar --> Python and some of its frameworks.
 
 
-Currently Looking for a winter spring internship
+Currently Looking for a winter/spring internship
 
 <!--
 
