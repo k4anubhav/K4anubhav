@@ -5,7 +5,7 @@
 I know some <!-- I don't know grammar --> Python and some of its frameworks.
 
 
-Currently Looking for a winter/spring internship
+<!-- Currently(*was) Looking for a winter/spring internship -->
 
 <!--
 
